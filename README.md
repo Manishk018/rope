@@ -1,25 +1,3 @@
-## This project has been discontinued
-
-Yes, it still works, you can still use this software. It just won't recieve any updates now.
-
-> I do not have the interest or time to oversee the development of a software. I thank all the amazing people who contributed to this project and made what it is in it's final form.
-
-# Roop
-
-> Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/s0md3v/roop/ci.yml.svg?branch=main)](https://github.com/s0md3v/roop/actions?query=workflow:ci)
-
-<img src="https://i.ibb.co/4RdPYwQ/Untitled.jpg"/>
-
-## Installation
-
-Be aware, the installation needs technical skills and is not for beginners. Please do not open platform and installation related issues on GitHub. We have a very helpful [Discord](https://discord.com/invite/Y9p4ZQ2sB9) community that will guide you to install roop.
-
-[Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
-
-[Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
-
 
 ## Usage
 
